@@ -6,7 +6,7 @@ import random
 wiki_page = {'Search_engine': 'Search Engine'}
 
 BASE_URL='https://en.wikipedia.org/wiki/'
-URL = BASE_URL + 'Mainsail'
+URL = BASE_URL + 'Search_engine'
 count = 0
 
 while True:
